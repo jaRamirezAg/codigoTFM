@@ -1,0 +1,7 @@
+uint8 cod_audio
+bool infinite
+bool sync
+---
+bool result 
+uint16 error_code
+
